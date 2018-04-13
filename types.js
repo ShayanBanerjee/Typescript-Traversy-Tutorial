@@ -1,0 +1,31 @@
+// console.log('hello from ts');
+var myString;
+var myNum;
+var myBool;
+var myVar;
+//arrays
+var strArr;
+var numArr;
+var boolArr;
+//array way 2
+var strArr2;
+var numArr2;
+var boolArr2;
+var strNumtuple;
+var myVoid = undefined;
+var myNull = null;
+var myUndefined = undefined;
+myString = 'Hello '.slice(0, 3) + ' ' + 'World';
+myNum = 22;
+myBool = true;
+myVar = 'hello';
+strArr = ['hello', 'world'];
+numArr = [1, 2, 3];
+boolArr = [true, true, false, true];
+strNumtuple = ['hello', 4];
+console.log(myString);
+console.log(myNum);
+console.log(myBool);
+console.log(myVar);
+console.log(strNumtuple);
+console.log(myVoid);
